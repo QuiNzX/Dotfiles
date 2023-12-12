@@ -1,0 +1,14 @@
+
+
+
+#Oh-My-Zsh plugins
+ohmyzsh/ohmyzsh path:plugins/extract
+
+
+#defer
+zdharma-continuum/fast-syntax-highlighting kind:defer
+
+zsh-users/zsh-completions path:src kind:fpath
+
+
+zsh-users/zsh-autosuggestions kind:defer

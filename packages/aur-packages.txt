@@ -1,0 +1,14 @@
+catppuccin-gtk-theme-mocha 0.7.1-1
+libgbinder 1.1.34-2
+libglibutil 1.0.74-1
+librewolf-bin 119.0.1-1
+nwg-look-bin 0.2.5-1
+papirus-folders-catppuccin-git r25.6f829274-1
+pulse-browser-bin 1.0.0.alpha87-1
+python-gbinder 1.1.2-1
+rider 1:2023.2.2-2
+shadowsocks-rust-bin 1.17.0-1
+swayfx 0.3.2-5
+swayfx-debug 0.3.2-5
+ventoy-bin 1.0.96-1
+waydroid 1.4.1-1
